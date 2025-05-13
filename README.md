@@ -97,5 +97,8 @@ Execution:
 The programs are executed via command line:
 
 python Assignment2_1.py coords.txt offsets.txt
+
 python Assignment2_2.py Rtree.txt Rqueries.txt
+
 python Assignment2_3.py Rtree.txt NNqueries.txt k
+
